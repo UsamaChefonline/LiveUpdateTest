@@ -1,0 +1,8 @@
+{
+  "name": "LiveUpdateTest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "7525c7c9"
+}
